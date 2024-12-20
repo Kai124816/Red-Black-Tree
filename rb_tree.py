@@ -479,6 +479,3 @@ class rb_tree(object):
         x.color = 'black'
 
 
-"git remote add origin https://github.com/Kai124816/Red-Black-Tree.git"
-"git branch -M main"
-"git push -u origin main"
